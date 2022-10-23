@@ -7,7 +7,6 @@ I'm Shohanuzzaman Omi. I'm a designer who codes. I'm a web developer. I've worke
 
 Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
